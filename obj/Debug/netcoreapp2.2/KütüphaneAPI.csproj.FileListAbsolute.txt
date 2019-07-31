@@ -1,0 +1,14 @@
+C:\Users\cozpolat\KütüphaneAPI\bin\Debug\netcoreapp2.2\KütüphaneAPI.deps.json
+C:\Users\cozpolat\KütüphaneAPI\bin\Debug\netcoreapp2.2\KütüphaneAPI.runtimeconfig.json
+C:\Users\cozpolat\KütüphaneAPI\bin\Debug\netcoreapp2.2\KütüphaneAPI.runtimeconfig.dev.json
+C:\Users\cozpolat\KütüphaneAPI\bin\Debug\netcoreapp2.2\KütüphaneAPI.dll
+C:\Users\cozpolat\KütüphaneAPI\bin\Debug\netcoreapp2.2\KütüphaneAPI.pdb
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.csprojAssemblyReference.cache
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.csproj.CoreCompileInputs.cache
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.RazorAssemblyInfo.cache
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.RazorAssemblyInfo.cs
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.AssemblyInfoInputs.cache
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.AssemblyInfo.cs
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.RazorTargetAssemblyInfo.cache
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.dll
+C:\Users\cozpolat\KütüphaneAPI\obj\Debug\netcoreapp2.2\KütüphaneAPI.pdb
